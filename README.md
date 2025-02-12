@@ -1,2 +1,2 @@
 # Stepik
-Stepic course
+:"Мой первый репозиторий"
